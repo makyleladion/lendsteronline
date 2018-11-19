@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 
-<!-- Mirrored from www.vasterad.com/themes/listeo_latest/pages-coming-soon.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 03 Nov 2018 03:44:40 GMT -->
 <head>
 
 <!-- Basic Page Needs
@@ -31,7 +30,7 @@
 		<!-- Search -->
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2">
-				<img src="images/logo2.png" alt="">
+				<img src="images/lendster-logo.png" alt="">
 
 				<h3>We are launching Listeo soon!</h3>
 				
@@ -91,5 +90,4 @@
 
 </body>
 
-<!-- Mirrored from www.vasterad.com/themes/listeo_latest/pages-coming-soon.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 03 Nov 2018 03:44:41 GMT -->
 </html>

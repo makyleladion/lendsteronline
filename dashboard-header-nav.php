@@ -21,7 +21,7 @@
 				</div>
 
 				<!-- Main Navigation -->
-				<nav id="navigation" class="style-1">
+				<nav id="navigation" class="style-1" style="display: none">
 					<ul id="responsive">
 
 						<li><a href="#">Home</a>
@@ -129,9 +129,9 @@
 					<div class="user-menu">
 						<div class="user-name"><span><img src="images/dashboard-avatar.jpg" alt=""></span>My Account</div>
 						<ul>
-							<li><a href="dashboard.html"><i class="sl sl-icon-settings"></i> Dashboard</a></li>
-							<li><a href="dashboard-messages.html"><i class="sl sl-icon-envelope-open"></i> Messages</a></li>
-							<li><a href="dashboard-bookings.html"><i class="fa fa-calendar-check-o"></i> Bookings</a></li>
+							<li><a href="dashboard.php"><i class="sl sl-icon-settings"></i> Dashboard</a></li>
+							<li><a href="dashboard-messages.php"><i class="sl sl-icon-envelope-open"></i> Messages</a></li>
+							<li><a href="dashboard-bookings.php"><i class="fa fa-calendar-check-o"></i> Bookings</a></li>
 							<li><a href="index.php"><i class="sl sl-icon-power"></i> Logout</a></li>
 						</ul>
 					</div>

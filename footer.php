@@ -53,7 +53,7 @@
 		<!-- Copyright -->
 		<div class="row">
 			<div class="col-md-12">
-				<div class="copyrights">© 2017 Listeo. All Rights Reserved.</div>
+				<div class="copyrights">© 2018 Lendster Online. All Rights Reserved.</div>
 			</div>
 		</div>
 

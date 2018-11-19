@@ -2,3 +2,24 @@
     max-height: 60px;
 }
 
+.dashboard #logo {
+    background-color: #fff;
+}
+
+.dashboard-nav {
+    background-color: #fff;
+}
+
+.dashboard-nav ul li a {
+    color: #000;
+}
+
+a:focus,
+a:hover {
+    text-decoration: none;
+    color: #f91942 !important;
+}
+
+a.button:hover {
+	color: #fff !important;
+}
