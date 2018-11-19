@@ -7,12 +7,17 @@
 ================================================== -->
 <header id="header-container">
 
-	<?php include('header-nav.php') ?>
+	<!-- Header -->
+	<div id="header">
+
+		<?php include('header-nav.php') ?>
+
+	</div>
+	<!-- Header / End -->
 
 </header>
 <div class="clearfix"></div>
 <!-- Header Container / End -->
-
 
 <!-- Banner
 ================================================== -->
@@ -435,7 +440,7 @@
 			<!-- Blog post Item / End -->
 
 			<div class="col-md-12 centered-content">
-				<a href="pages-blog.html" class="button border margin-top-10">View Blog</a>
+				<a href="blog.html" class="button border margin-top-10">View Blog</a>
 			</div>
 
 		</div>

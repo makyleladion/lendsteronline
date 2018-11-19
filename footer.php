@@ -5,7 +5,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-5 col-sm-6">
-				<img class="footer-logo" src="images/logo.png" alt="">
+				<img class="footer-logo" src="images/lendster-logo.png" alt="">
 				<br><br>
 				<p>Morbi convallis bibendum urna ut viverra. Maecenas quis consequat libero, a feugiat eros. Nunc ut lacinia tortor morbi ultricies laoreet ullamcorper phasellus semper.</p>
 			</div>
@@ -13,9 +13,9 @@
 			<div class="col-md-4 col-sm-6 ">
 				<h4>Helpful Links</h4>
 				<ul class="footer-links">
-					<li><a href="#">Login</a></li>
+					<li><a href="dashboard.php">Login</a></li>
 					<li><a href="#">Sign Up</a></li>
-					<li><a href="#">My Account</a></li>
+					<li><a href="user-index.php">My Account</a></li>
 					<li><a href="#">Add Listing</a></li>
 					<li><a href="#">Pricing</a></li>
 					<li><a href="#">Privacy Policy</a></li>
@@ -73,7 +73,8 @@
 
 <!-- Scripts
 ================================================== -->
-<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="scripts/jquery-2.2.0.min.js"></script>
+<script data-cfasync="false" src="scripts/cloudflare-static/email-decode.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 <script type="text/javascript" src="scripts/mmenu.min.js"></script>
 <script type="text/javascript" src="scripts/chosen.min.js"></script>
 <script type="text/javascript" src="scripts/slick.min.js"></script>
@@ -107,12 +108,12 @@
 	}
 }
 </script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAgeuuDfRlweIs7D6uo4wdIHVvJ0LonQ6g&amp;libraries=places&amp;callback=initAutocomplete"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDiIbK2gjOwDA44yB8hd5sdgZ0JEbJVLOo&amp;libraries=places&amp;callback=initAutocomplete"></script>
+<script type="text/javascript" src="scripts/infobox.min.js"></script>
+<script type="text/javascript" src="scripts/markerclusterer.js"></script>
+<script type="text/javascript" src="scripts/maps.js"></script>
 
-
-<!-- Style Switcher
-================================================== -->
-<script src="scripts/switcher.js"></script>
+<?php require('revolution-slider.php'); ?>
 
 </body>
 

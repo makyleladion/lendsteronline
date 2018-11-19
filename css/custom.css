@@ -23,3 +23,15 @@ a:hover {
 a.button:hover {
 	color: #fff !important;
 }
+
+i.im:hover {
+    color: #fff;
+}
+
+.icon-box-2 i:hover {
+    color: #f91942;
+}
+
+img.footer-logo {
+    max-height: 65px !important;
+}
