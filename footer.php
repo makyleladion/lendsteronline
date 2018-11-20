@@ -5,7 +5,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-5 col-sm-6">
-				<img class="footer-logo" src="images/lendster-logo.png" alt="">
+				<img class="footer-logo" src="assets/images/lendster-logo.png" alt="">
 				<br><br>
 				<p>Morbi convallis bibendum urna ut viverra. Maecenas quis consequat libero, a feugiat eros. Nunc ut lacinia tortor morbi ultricies laoreet ullamcorper phasellus semper.</p>
 			</div>
@@ -75,16 +75,16 @@
 ================================================== -->
 <script data-cfasync="false" src="scripts/cloudflare-static/email-decode.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
-<script type="text/javascript" src="scripts/mmenu.min.js"></script>
-<script type="text/javascript" src="scripts/chosen.min.js"></script>
-<script type="text/javascript" src="scripts/slick.min.js"></script>
-<script type="text/javascript" src="scripts/rangeslider.min.js"></script>
-<script type="text/javascript" src="scripts/magnific-popup.min.js"></script>
-<script type="text/javascript" src="scripts/waypoints.min.js"></script>
-<script type="text/javascript" src="scripts/counterup.min.js"></script>
-<script type="text/javascript" src="scripts/jquery-ui.min.js"></script>
-<script type="text/javascript" src="scripts/tooltips.min.js"></script>
-<script type="text/javascript" src="scripts/custom.js"></script>
+<script type="text/javascript" src="assets/scripts/mmenu.min.js"></script>
+<script type="text/javascript" src="assets/scripts/chosen.min.js"></script>
+<script type="text/javascript" src="assets/scripts/slick.min.js"></script>
+<script type="text/javascript" src="assets/scripts/rangeslider.min.js"></script>
+<script type="text/javascript" src="assets/scripts/magnific-popup.min.js"></script>
+<script type="text/javascript" src="assets/scripts/waypoints.min.js"></script>
+<script type="text/javascript" src="assets/scripts/counterup.min.js"></script>
+<script type="text/javascript" src="assets/scripts/jquery-ui.min.js"></script>
+<script type="text/javascript" src="assets/scripts/tooltips.min.js"></script>
+<script type="text/javascript" src="assets/scripts/custom.js"></script>
 
 
 <!-- Google Autocomplete -->
@@ -109,9 +109,9 @@
 }
 </script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDiIbK2gjOwDA44yB8hd5sdgZ0JEbJVLOo&amp;libraries=places&amp;callback=initAutocomplete"></script>
-<script type="text/javascript" src="scripts/infobox.min.js"></script>
-<script type="text/javascript" src="scripts/markerclusterer.js"></script>
-<script type="text/javascript" src="scripts/maps.js"></script>
+<script type="text/javascript" src="assets/scripts/infobox.min.js"></script>
+<script type="text/javascript" src="assets/scripts/markerclusterer.js"></script>
+<script type="text/javascript" src="assets/scripts/maps.js"></script>
 
 <?php require('revolution-slider.php'); ?>
 

@@ -19,7 +19,7 @@
 	<!-- Header -->
 	<div class="row">
 		<div class="col-md-6">
-			<div id="logo"><img src="images/logo.png" alt=""></div>
+			<div id="logo"><img src="assets/images/logo.png" alt=""></div>
 		</div>
 
 		<div class="col-md-6">	
@@ -104,6 +104,6 @@
 </div>
 
 
-<script data-cfasync="false" src="scripts/cloudflare-static/email-decode.min.js"></script></body>
+<script data-cfasync="false" src="assets/scripts/cloudflare-static/email-decode.min.js"></script></body>
 
 </html>

@@ -7,7 +7,7 @@
 ================================================== -->
 <header id="header-container" class="fixed fullwidth dashboard">
 
-	<?php include('dashboard-header-nav.php') ?>
+	<?php include('merchant-header-nav.php') ?>
 
 </header>
 <div class="clearfix"></div>
@@ -20,7 +20,7 @@
 	<!-- Navigation
 	================================================== -->
 
-	<?php include('dashboard-sidebar-nav.php') ?>
+	<?php include('merchant-sidebar-nav.php') ?>
 
 	<!-- Content
 	================================================== -->
@@ -190,20 +190,19 @@
 
 <!-- Scripts
 ================================================== -->
-<script type="text/javascript" src="scripts/jquery-2.2.0.min.js"></script>
-<script type="text/javascript" src="scripts/mmenu.min.js"></script>
-<script type="text/javascript" src="scripts/chosen.min.js"></script>
-<script type="text/javascript" src="scripts/slick.min.js"></script>
-<script type="text/javascript" src="scripts/rangeslider.min.js"></script>
-<script type="text/javascript" src="scripts/magnific-popup.min.js"></script>
-<script type="text/javascript" src="scripts/waypoints.min.js"></script>
-<script type="text/javascript" src="scripts/counterup.min.js"></script>
-<script type="text/javascript" src="scripts/jquery-ui.min.js"></script>
-<script type="text/javascript" src="scripts/tooltips.min.js"></script>
-<script type="text/javascript" src="scripts/custom.js"></script>
+<script type="text/javascript" src="assets/scripts/jquery-2.2.0.min.js"></script>
+<script type="text/javascript" src="assets/scripts/mmenu.min.js"></script>
+<script type="text/javascript" src="assets/scripts/chosen.min.js"></script>
+<script type="text/javascript" src="assets/scripts/slick.min.js"></script>
+<script type="text/javascript" src="assets/scripts/rangeslider.min.js"></script>
+<script type="text/javascript" src="assets/scripts/magnific-popup.min.js"></script>
+<script type="text/javascript" src="assets/scripts/waypoints.min.js"></script>
+<script type="text/javascript" src="assets/scripts/counterup.min.js"></script>
+<script type="text/javascript" src="assets/scripts/jquery-ui.min.js"></script>
+<script type="text/javascript" src="assets/scripts/tooltips.min.js"></script>
+<script type="text/javascript" src="assets/scripts/custom.js"></script>
 
 
 </body>
 
-<!-- Mirrored from www.vasterad.com/themes/listeo_latest/dashboard.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 03 Nov 2018 03:43:53 GMT -->
 </html>

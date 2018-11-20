@@ -35,3 +35,23 @@ i.im:hover {
 img.footer-logo {
     max-height: 65px !important;
 }
+
+#dashboard .notice {
+    background-color: #3184ae;
+}
+
+table.basic-table {
+    background-color: #fff;
+}
+
+table.basic-table tr:nth-child(odd) {
+    background-color: #fff;
+}
+
+table.basic-table tr:hover {
+    background-color: #f7f7f7;
+}
+
+input.search-field {
+    border-radius: 52px;
+}

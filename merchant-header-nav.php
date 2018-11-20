@@ -7,8 +7,8 @@
 				
 				<!-- Logo -->
 				<div id="logo">
-					<a href="index.php"><img src="images/lendster-logo.png" alt=""></a>
-					<a href="dashboard.php" class="dashboard-logo"><img src="images/lendster-logo.png" alt=""></a>
+					<a href="index.php"><img src="assets/images/lendster-logo.png" alt=""></a>
+					<a href="merchant-dashboard.php" class="dashboard-logo"><img src="assets/images/lendster-logo.png" alt=""></a>
 				</div>
 
 				<!-- Mobile Navigation -->
@@ -127,16 +127,15 @@
 					
 					<!-- User Menu -->
 					<div class="user-menu">
-						<div class="user-name"><span><img src="images/dashboard-avatar.jpg" alt=""></span>My Account</div>
+						<div class="user-name"><span><img src="assets/images/dashboard-avatar.jpg" alt=""></span>My Account</div>
 						<ul>
-							<li><a href="dashboard.php"><i class="sl sl-icon-settings"></i> Dashboard</a></li>
-							<li><a href="dashboard-messages.php"><i class="sl sl-icon-envelope-open"></i> Messages</a></li>
-							<li><a href="dashboard-bookings.php"><i class="fa fa-calendar-check-o"></i> Bookings</a></li>
+							<li><a href="merchant-dashboard.php"><i class="sl sl-icon-settings"></i> Dashboard</a></li>
+							<li><a href="merchant-messages.php"><i class="sl sl-icon-envelope-open"></i> Messages</a></li>
+							<li><a href="merchant-bookings.php"><i class="fa fa-calendar-check-o"></i> Bookings</a></li>
 							<li><a href="index.php"><i class="sl sl-icon-power"></i> Logout</a></li>
 						</ul>
 					</div>
 
-					<a href="dashboard-add-listing.php" class="button border with-icon">Add Listing <i class="sl sl-icon-plus"></i></a>
 				</div>
 				<!-- Header Widget / End -->
 			</div>
