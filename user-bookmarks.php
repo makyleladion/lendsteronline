@@ -64,7 +64,7 @@
 							
 							<!-- Image -->
 							<div class="listing-item-image">
-								<img src="images/listing-item-01.jpg" alt="">
+								<img src="assets/images/listing-item-01.jpg" alt="">
 								<span class="tag">Eat & Drink</span>
 							</div>
 							
@@ -94,7 +94,7 @@
 							
 							<!-- Image -->
 							<div class="listing-item-image">
-								<img src="images/listing-item-02.jpg" alt="">
+								<img src="assets/images/listing-item-02.jpg" alt="">
 								<span class="tag">Events</span>
 							</div>
 							
@@ -125,7 +125,7 @@
 							
 							<!-- Image -->
 							<div class="listing-item-image">
-								<img src="images/listing-item-03.jpg" alt="">
+								<img src="assets/images/listing-item-03.jpg" alt="">
 								<span class="tag">Hotels</span>
 							</div>
 							
@@ -156,7 +156,7 @@
 							
 							<!-- Image -->
 							<div class="listing-item-image">
-								<img src="images/listing-item-04.jpg" alt="">
+								<img src="assets/images/listing-item-04.jpg" alt="">
 								<span class="tag">Eat & Drink</span>
 							</div>
 							
@@ -186,7 +186,7 @@
 							
 							<!-- Image -->
 							<div class="listing-item-image">
-								<img src="images/listing-item-05.jpg" alt="">
+								<img src="assets/images/listing-item-05.jpg" alt="">
 								<span class="tag">Other</span>
 							</div>
 							
@@ -215,7 +215,7 @@
 							
 							<!-- Image -->
 							<div class="listing-item-image">
-								<img src="images/listing-item-06.jpg" alt="">
+								<img src="assets/images/listing-item-06.jpg" alt="">
 								<span class="tag">Eat & Drink</span>
 							</div>
 							

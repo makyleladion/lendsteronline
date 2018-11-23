@@ -149,7 +149,7 @@
 								<li>Date: 20/07/2017</li>
 							</ul>
 							<div class="buttons-to-right">
-								<a href="dashboard-invoice.html" class="button gray">View Invoice</a>
+								<a href="merchant-invoice.php" class="button gray">View Invoice</a>
 							</div>
 						</li>
 						
@@ -161,7 +161,7 @@
 								<li>Date: 14/07/2017</li>
 							</ul>
 							<div class="buttons-to-right">
-								<a href="dashboard-invoice.html" class="button gray">View Invoice</a>
+								<a href="merchant-invoice.php" class="button gray">View Invoice</a>
 							</div>
 						</li>
 
@@ -173,7 +173,7 @@
 								<li>Date: 10/07/2017</li>
 							</ul>
 							<div class="buttons-to-right">
-								<a href="dashboard-invoice.html" class="button gray">View Invoice</a>
+								<a href="merchant-invoice.php" class="button gray">View Invoice</a>
 							</div>
 						</li>
 						
@@ -185,7 +185,7 @@
 								<li>Date: 30/06/2017</li>
 							</ul>
 							<div class="buttons-to-right">
-								<a href="dashboard-invoice.html" class="button gray">View Invoice</a>
+								<a href="merchant-invoice.php" class="button gray">View Invoice</a>
 							</div>
 						</li>
 

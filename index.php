@@ -21,7 +21,7 @@
 
 <!-- Banner
 ================================================== -->
-<div class="main-search-container" data-background-image="images/main-search-background-01.jpg">
+<div class="main-search-container" data-background-image="assets/images/main-search-background-01.jpg">
 	<div class="main-search-inner">
 
 		<div class="container">
@@ -90,7 +90,7 @@
 
 			<!-- this (first) box will be hidden under 1680px resolution -->
 			<div class="category-box-container half">
-				<a href="listings-half-screen-map-grid-1.html" class="category-box" data-background-image="images/category-box-01.jpg">
+				<a href="listings-half-screen-map-grid-1.html" class="category-box" data-background-image="assets/images/category-box-01.jpg">
 					<div class="category-box-content">
 						<h3>Hotels</h3>
 						<span>64 listings</span>
@@ -100,7 +100,7 @@
 			</div>
 
 			<div class="category-box-container half">
-				<a href="listings-half-screen-map-grid-1.html" class="category-box" data-background-image="images/category-box-02.jpg">
+				<a href="listings-half-screen-map-grid-1.html" class="category-box" data-background-image="assets/images/category-box-02.jpg">
 					<div class="category-box-content">
 						<h3>Shops</h3>
 						<span>14 listings</span>
@@ -113,7 +113,7 @@
 		<!-- Item -->
 		<div class="fw-carousel-item">
 			<div class="category-box-container">
-				<a href="listings-half-screen-map-grid-1.html" class="category-box" data-background-image="images/category-box-03.jpg">
+				<a href="listings-half-screen-map-grid-1.html" class="category-box" data-background-image="assets/images/category-box-03.jpg">
 					<div class="category-box-content">
 						<h3>Events</h3>
 						<span>67 listings</span>
@@ -126,7 +126,7 @@
 		<!-- Item -->
 		<div class="fw-carousel-item">
 			<div class="category-box-container">
-				<a href="listings-half-screen-map-grid-1.html" class="category-box" data-background-image="images/category-box-04.jpg">
+				<a href="listings-half-screen-map-grid-1.html" class="category-box" data-background-image="assets/images/category-box-04.jpg">
 					<div class="category-box-content">
 						<h3>Fitness</h3>
 						<span>27 listings</span>
@@ -139,7 +139,7 @@
 		<!-- Item -->
 		<div class="fw-carousel-item">
 			<div class="category-box-container">
-				<a href="listings-half-screen-map-list.html" class="category-box" data-background-image="images/category-box-05.jpg">
+				<a href="listings-half-screen-map-list.html" class="category-box" data-background-image="assets/images/category-box-05.jpg">
 					<div class="category-box-content">
 						<h3>Nightlife</h3>
 						<span>22 listings</span>
@@ -152,7 +152,7 @@
 		<!-- Item -->
 		<div class="fw-carousel-item">
 			<div class="category-box-container">
-				<a href="listings-half-screen-map-list.html" class="category-box" data-background-image="images/category-box-06.jpg">
+				<a href="listings-half-screen-map-list.html" class="category-box" data-background-image="assets/images/category-box-06.jpg">
 					<div class="category-box-content">
 						<h3>Eat & Drink</h3>
 						<span>130 listings</span>
@@ -188,7 +188,7 @@
 				<div class="carousel-item">
 					<a href="listings-single-page.html" class="listing-item-container">
 						<div class="listing-item">
-							<img src="images/listing-item-01.jpg" alt="">
+							<img src="assets/images/listing-item-01.jpg" alt="">
 
 							<div class="listing-badge now-open">Now Open</div>
 							
@@ -210,7 +210,7 @@
 				<div class="carousel-item">
 					<a href="listings-single-page.html" class="listing-item-container">
 						<div class="listing-item">
-							<img src="images/listing-item-02.jpg" alt="">
+							<img src="assets/images/listing-item-02.jpg" alt="">
 							<div class="listing-item-details">
 								<ul>
 									<li>Friday, August 10</li>
@@ -234,7 +234,7 @@
 				<div class="carousel-item">
 					<a href="listings-single-page.html" class="listing-item-container">
 						<div class="listing-item">
-							<img src="images/listing-item-03.jpg" alt="">
+							<img src="assets/images/listing-item-03.jpg" alt="">
 							<div class="listing-item-details">
 								<ul>
 									<li>Starting from $59 per night</li>
@@ -258,7 +258,7 @@
 				<div class="carousel-item">
 					<a href="listings-single-page.html" class="listing-item-container">
 						<div class="listing-item">
-							<img src="images/listing-item-04.jpg" alt="">
+							<img src="assets/images/listing-item-04.jpg" alt="">
 
 							<div class="listing-badge now-open">Now Open</div>
 
@@ -280,7 +280,7 @@
 				<div class="carousel-item">
 					<a href="listings-single-page.html" class="listing-item-container">
 						<div class="listing-item">
-							<img src="images/listing-item-05.jpg" alt="">
+							<img src="assets/images/listing-item-05.jpg" alt="">
 							<div class="listing-item-content">
 								<span class="tag">Other</span>
 								<h3>Airport</h3>
@@ -299,7 +299,7 @@
 				<div class="carousel-item">
 					<a href="listings-single-page.html" class="listing-item-container">
 						<div class="listing-item">
-							<img src="images/listing-item-06.jpg" alt="">
+							<img src="assets/images/listing-item-06.jpg" alt="">
 
 							<div class="listing-badge now-closed">Now Closed</div>
 
@@ -389,7 +389,7 @@
 			<div class="col-md-4">
 				<a href="pages-blog-post.html" class="blog-compact-item-container">
 					<div class="blog-compact-item">
-						<img src="images/blog-compact-post-01.jpg" alt="">
+						<img src="assets/images/blog-compact-post-01.jpg" alt="">
 						<span class="blog-item-tag">Tips</span>
 						<div class="blog-compact-item-content">
 							<ul class="blog-post-tags">
@@ -407,7 +407,7 @@
 			<div class="col-md-4">
 				<a href="pages-blog-post.html" class="blog-compact-item-container">
 					<div class="blog-compact-item">
-						<img src="images/blog-compact-post-02.jpg" alt="">
+						<img src="assets/images/blog-compact-post-02.jpg" alt="">
 						<span class="blog-item-tag">Tips</span>
 						<div class="blog-compact-item-content">
 							<ul class="blog-post-tags">
@@ -425,7 +425,7 @@
 			<div class="col-md-4">
 				<a href="pages-blog-post.html" class="blog-compact-item-container">
 					<div class="blog-compact-item">
-						<img src="images/blog-compact-post-03.jpg" alt="">
+						<img src="assets/images/blog-compact-post-03.jpg" alt="">
 						<span class="blog-item-tag">Tips</span>
 						<div class="blog-compact-item-content">
 							<ul class="blog-post-tags">
@@ -440,7 +440,7 @@
 			<!-- Blog post Item / End -->
 
 			<div class="col-md-12 centered-content">
-				<a href="blog.html" class="button border margin-top-10">View Blog</a>
+				<a href="blog.php" class="button border margin-top-10">View Blog</a>
 			</div>
 
 		</div>

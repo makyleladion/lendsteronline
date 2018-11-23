@@ -6,7 +6,7 @@
 					
 					<!-- Logo -->
 					<div id="logo">
-						<a href="index.php"><img src="images/lendster-logo.png" alt=""></a>
+						<a href="index.php"><img src="assets/images/lendster-logo.png" alt=""></a>
 					</div>
 
 					<!-- Mobile Navigation -->
@@ -58,7 +58,7 @@
 					
 					<!-- User Menu -->
 					<div class="user-menu">
-						<div class="user-name"><span><img src="images/dashboard-avatar.jpg" alt=""></span>My Account</div>
+						<div class="user-name"><span><img src="assets/images/dashboard-avatar.jpg" alt=""></span>My Account</div>
 						<ul>
 							<li><a href="user-messages.php"><i class="sl sl-icon-envelope-open"></i> Messages</a></li>
 							<li><a href="dashboard-bookings.php"><i class="fa fa-calendar-check-o"></i> Bookings</a></li>
