@@ -13,7 +13,7 @@
 			<div class="col-md-4 col-sm-6 ">
 				<h4>Helpful Links</h4>
 				<ul class="footer-links">
-					<li><a href="dashboard.php">Login</a></li>
+					<li><a href="mechant-dashboard.php">Login</a></li>
 					<li><a href="#">Sign Up</a></li>
 					<li><a href="user-index.php">My Account</a></li>
 					<li><a href="#">Add Listing</a></li>
@@ -73,7 +73,7 @@
 
 <!-- Scripts
 ================================================== -->
-<script data-cfasync="false" src="scripts/cloudflare-static/email-decode.min.js"></script>
+<script data-cfasync="false" src="assets/scripts/cloudflare-static/email-decode.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 <script type="text/javascript" src="assets/scripts/mmenu.min.js"></script>
 <script type="text/javascript" src="assets/scripts/chosen.min.js"></script>

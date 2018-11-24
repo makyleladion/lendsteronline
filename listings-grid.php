@@ -84,7 +84,7 @@
 				<div class="col-lg-6 col-md-12">
 					<a href="listings-single-page.php" class="listing-item-container">
 						<div class="listing-item">
-							<img src="images/listing-item-01.jpg" alt="">
+							<img src="assets/images/listing-item-01.jpg" alt="">
 
 							<div class="listing-badge now-open">Now Open</div>
 							
@@ -106,7 +106,7 @@
 				<div class="col-lg-6 col-md-12">
 					<a href="listings-single-page.php" class="listing-item-container">
 						<div class="listing-item">
-							<img src="images/listing-item-02.jpg" alt="">
+							<img src="assets/images/listing-item-02.jpg" alt="">
 							<div class="listing-item-details">
 								<ul>
 									<li>Friday, August 10</li>
@@ -130,7 +130,7 @@
 				<div class="col-lg-6 col-md-12">
 					<a href="listings-single-page.php" class="listing-item-container">
 						<div class="listing-item">
-							<img src="images/listing-item-03.jpg" alt="">
+							<img src="assets/images/listing-item-03.jpg" alt="">
 							<div class="listing-item-details">
 								<ul>
 									<li>Starting from $59 per night</li>
@@ -154,7 +154,7 @@
 				<div class="col-lg-6 col-md-12">
 					<a href="listings-single-page.php" class="listing-item-container">
 						<div class="listing-item">
-							<img src="images/listing-item-04.jpg" alt="">
+							<img src="assets/images/listing-item-04.jpg" alt="">
 
 							<div class="listing-badge now-open">Now Open</div>
 
@@ -176,7 +176,7 @@
 				<div class="col-lg-6 col-md-12">
 					<a href="listings-single-page.php" class="listing-item-container">
 						<div class="listing-item">
-							<img src="images/listing-item-05.jpg" alt="">
+							<img src="assets/images/listing-item-05.jpg" alt="">
 							<div class="listing-item-content">
 								<span class="tag">Other</span>
 								<h3>Airport</h3>
@@ -195,7 +195,7 @@
 				<div class="col-lg-6 col-md-12">
 					<a href="listings-single-page.php" class="listing-item-container">
 						<div class="listing-item">
-							<img src="images/listing-item-06.jpg" alt="">
+							<img src="assets/images/listing-item-06.jpg" alt="">
 
 							<div class="listing-badge now-closed">Now Closed</div>
 

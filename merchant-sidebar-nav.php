@@ -14,11 +14,12 @@
 				<li><a><i class="sl sl-icon-book-open"></i> Loans</a>
 					<ul>
 						<li><a href="merchant-loans-active.php">Active <span class="nav-tag green">6</span></a></li>
-						<li><a href="merchant-my-listings.php">Pending <span class="nav-tag yellow">1</span></a></li>
+						<li><a href="merchant-loans-pending.php">Pending <span class="nav-tag yellow">1</span></a></li>
 						<li><a href="merchant-my-listings.php">Expired <span class="nav-tag red">2</span></a></li>
 						<li><a href="merchant-my-listings.php">Closed <span class="nav-tag notice">5</span></a></li>
 					</ul>	
 				</li>
+				<li><a href="merchant-missed-payment.php"><i class="sl sl-icon-docs"></i> Missed Payments</a></li>
 			</ul>	
 			
 			<ul data-submenu-title="Listings">

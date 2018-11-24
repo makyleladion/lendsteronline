@@ -30,13 +30,13 @@
 		<div id="titlebar">
 			<div class="row">
 				<div class="col-md-7">
-					<h2>Loans</h2>
+					<h2>Pending Loans</h2>
 					<!-- Breadcrumbs -->
 					
 				</div>
 				<div class="col-md-5">
 					<div>
-						<input class="search-field" type="text" placeholder="Search Active Loans" value=""/>
+						<input class="search-field" type="text" placeholder="Search Pending Loans" value=""/>
 					</div>
 				</div>
 			</div>
@@ -47,7 +47,7 @@
 			<!-- Listings -->
 			<div class="col-lg-12 col-md-12">
 				<div class="dashboard-list-box margin-top-0">
-					<h4>Active Loans <span class="h-status green">4</span></h4>
+					<h4>Active Loans <span class="h-status yellow">4</span></h4>
 					<table class="basic-table">
 						<thead>		
 							<tr>
@@ -62,25 +62,25 @@
 								<td data-label="Column 1"><a href="merchant-loan-details.php">Richard Illescas</a></td>
 								<td data-label="Column 2">10,000.00</td>
 								<td data-label="Column 2">5,000.00</td>
-								<td data-label="Column 2"><span class="status green">Active</span></td>
+								<td data-label="Column 2"><span class="status yellow">Pending</span></td>
 							</tr>
 							<tr>
 								<td data-label="Column 1">Joshua Paylaga</td>
 								<td data-label="Column 2">10,000.00</td>
 								<td data-label="Column 2">5,000.00</td>
-								<td data-label="Column 2"><span class="status green">Active</span></td>
+								<td data-label="Column 2"><span class="status yellow">Pending</span></td>
 							</tr>
 							<tr>
 								<td data-label="Column 1">Dale Sicat</td>
 								<td data-label="Column 2">10,000.00</td>
 								<td data-label="Column 2">5,000.00</td>
-								<td data-label="Column 2"><span class="status green">Active</span></td>
+								<td data-label="Column 2"><span class="status yellow">Pending</span></td>
 							</tr>
 							<tr>
 								<td data-label="Column 1">Dave Duenas</td>
 								<td data-label="Column 2">10,000.00</td>
 								<td data-label="Column 2">5,000.00</td>
-								<td data-label="Column 2"><span class="status green">Active</span></td>
+								<td data-label="Column 2"><span class="status yellow">Pending</span></td>
 							</tr>
 							</tr>
 						</tbody>

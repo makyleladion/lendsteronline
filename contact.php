@@ -27,14 +27,14 @@
 
 	<!-- Google Maps -->
 	<div id="singleListingMap-container">
-		<div id="singleListingMap" data-latitude="40.70437865245596" data-longitude="-73.98674011230469" data-map-icon="im im-icon-Map2"></div>
+		<div id="singleListingMap" data-latitude="8.467665" data-longitude="124.632853" zoom="11" data-map-icon="im im-icon-Map2"></div>
 		<a href="#" id="streetView">Street View</a>
 	</div>
 	<!-- Google Maps / End -->
 
 	<!-- Office -->
 	<div class="address-box-container">
-		<div class="address-container" data-background-image="images/our-office.jpg">
+		<div class="address-container" data-background-image="assets/images/our-office.jpg">
 			<div class="office-address">
 				<h3>Our Office</h3>
 				<ul>

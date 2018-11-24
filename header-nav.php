@@ -6,7 +6,7 @@
 					
 					<!-- Logo -->
 					<div id="logo">
-						<a href="index.php"><img src="images/lendster-logo.png" alt=""></a>
+						<a href="index.php"><img src="assets/images/lendster-logo.png" alt=""></a>
 					</div>
 
 					<!-- Mobile Navigation -->

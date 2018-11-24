@@ -92,7 +92,7 @@
 			<div class="carousel-item">
 				<a href="listings-single-page.html" class="listing-item-container">
 					<div class="listing-item">
-						<img src="images/listing-item-01.jpg" alt="">
+						<img src="assets/images/listing-item-01.jpg" alt="">
 
 						<div class="listing-badge now-open">Now Open</div>
 						
@@ -114,7 +114,7 @@
 			<div class="carousel-item">
 				<a href="listings-single-page.html" class="listing-item-container">
 					<div class="listing-item">
-						<img src="images/listing-item-02.jpg" alt="">
+						<img src="assets/images/listing-item-02.jpg" alt="">
 						<div class="listing-item-details">
 							<ul>
 								<li>Friday, August 10</li>
@@ -138,7 +138,7 @@
 			<div class="carousel-item">
 				<a href="listings-single-page.html" class="listing-item-container">
 					<div class="listing-item">
-						<img src="images/listing-item-03.jpg" alt="">
+						<img src="assets/images/listing-item-03.jpg" alt="">
 						<div class="listing-item-details">
 							<ul>
 								<li>Starting from $59 per night</li>
@@ -162,7 +162,7 @@
 			<div class="carousel-item">
 				<a href="listings-single-page.html" class="listing-item-container">
 					<div class="listing-item">
-						<img src="images/listing-item-04.jpg" alt="">
+						<img src="assets/images/listing-item-04.jpg" alt="">
 
 						<div class="listing-badge now-open">Now Open</div>
 
@@ -184,7 +184,7 @@
 			<div class="carousel-item">
 				<a href="listings-single-page.html" class="listing-item-container">
 					<div class="listing-item">
-						<img src="images/listing-item-05.jpg" alt="">
+						<img src="assets/images/listing-item-05.jpg" alt="">
 						<div class="listing-item-content">
 							<span class="tag">Other</span>
 							<h3>Airport</h3>
@@ -203,7 +203,7 @@
 			<div class="carousel-item">
 				<a href="listings-single-page.html" class="listing-item-container">
 					<div class="listing-item">
-						<img src="images/listing-item-06.jpg" alt="">
+						<img src="assets/images/listing-item-06.jpg" alt="">
 
 						<div class="listing-badge now-closed">Now Closed</div>
 
@@ -255,7 +255,7 @@
 					<div class="testimonial">Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation is on the runway heading towards a streamlined cloud solution user generated content.</div>
 				</div>
 				<div class="testimonial-author">
-					<img src="images/happy-client-01.jpg" alt="">
+					<img src="assets/images/happy-client-01.jpg" alt="">
 					<h4>Jennie Smith <span>Coffee Shop Owner</span></h4>
 				</div>
 			</div>
@@ -266,7 +266,7 @@
 					<div class="testimonial">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop.</div>
 				</div>
 				<div class="testimonial-author">
-					<img src="images/happy-client-02.jpg" alt="">
+					<img src="assets/images/happy-client-02.jpg" alt="">
 					<h4>Tom Baker <span>Clothing Store Owner</span></h4>
 				</div>
 			</div>
@@ -277,7 +277,7 @@
 					<div class="testimonial">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view.</div>
 				</div>
 				<div class="testimonial-author">
-					<img src="images/happy-client-03.jpg" alt="">
+					<img src="assets/images/happy-client-03.jpg" alt="">
 					<h4>Jack Paden <span>Restaurant Owner</span></h4>
 				</div>
 			</div>
@@ -291,7 +291,7 @@
 
 <!-- Parallax -->
 <div class="parallax"
-	data-background="images/slider-bg-02.jpg"
+	data-background="assets/images/slider-bg-02.jpg"
 	data-color="#36383e"
 	data-color-opacity="0.6"
 	data-img-width="800"
@@ -435,7 +435,7 @@
 			<div class="col-md-4">
 				<a href="pages-blog-post.html" class="blog-compact-item-container">
 					<div class="blog-compact-item">
-						<img src="images/blog-compact-post-01.jpg" alt="">
+						<img src="assets/images/blog-compact-post-01.jpg" alt="">
 						<span class="blog-item-tag">Tips</span>
 						<div class="blog-compact-item-content">
 							<ul class="blog-post-tags">
@@ -453,7 +453,7 @@
 			<div class="col-md-4">
 				<a href="pages-blog-post.html" class="blog-compact-item-container">
 					<div class="blog-compact-item">
-						<img src="images/blog-compact-post-02.jpg" alt="">
+						<img src="assets/images/blog-compact-post-02.jpg" alt="">
 						<span class="blog-item-tag">Tips</span>
 						<div class="blog-compact-item-content">
 							<ul class="blog-post-tags">
@@ -471,7 +471,7 @@
 			<div class="col-md-4">
 				<a href="pages-blog-post.html" class="blog-compact-item-container">
 					<div class="blog-compact-item">
-						<img src="images/blog-compact-post-03.jpg" alt="">
+						<img src="assets/images/blog-compact-post-03.jpg" alt="">
 						<span class="blog-item-tag">Tips</span>
 						<div class="blog-compact-item-content">
 							<ul class="blog-post-tags">
@@ -486,7 +486,7 @@
 			<!-- Blog post Item / End -->
 
 			<div class="col-md-12 centered-content">
-				<a href="pages-blog.html" class="button border margin-top-10">View Blog</a>
+				<a href="blog.php" class="button border margin-top-10">View Blog</a>
 			</div>
 
 		</div>

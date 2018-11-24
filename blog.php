@@ -3,7 +3,20 @@
 <!-- Wrapper -->
 <div id="wrapper">
 
-<?php include('header-nav.php') ?>
+<!-- Header Container
+================================================== -->
+<header id="header-container">
+
+	<!-- Header -->
+	<div id="header">
+
+		<?php include('header-nav.php') ?>
+
+	</div>
+	<!-- Header / End -->
+
+</header>
+<div class="clearfix"></div>
 
 <!-- Titlebar
 ================================================== -->
@@ -42,7 +55,7 @@
 				
 				<!-- Img -->
 				<a href="pages-blog-post.html" class="post-img">
-					<img src="images/blog-post-01.jpg" alt="">
+					<img src="assets/images/blog-post-01.jpg" alt="">
 				</a>
 				
 				<!-- Content -->
@@ -69,7 +82,7 @@
 				
 				<!-- Img -->
 				<a href="pages-blog-post.html" class="post-img">
-					<img src="images/blog-post-02.jpg" alt="">
+					<img src="assets/images/blog-post-02.jpg" alt="">
 				</a>
 				
 				<!-- Content -->
@@ -96,7 +109,7 @@
 				
 				<!-- Img -->
 				<a href="pages-pages-blog-post.html" class="post-img">
-					<img src="images/blog-post-03.jpg" alt="">
+					<img src="assets/images/blog-post-03.jpg" alt="">
 				</a>
 				
 				<!-- Content -->
@@ -178,7 +191,7 @@
 					<li>
 						<div class="widget-content">
 								<div class="widget-thumb">
-								<a href="pages-blog-post.html"><img src="images/blog-widget-03.jpg" alt=""></a>
+								<a href="pages-blog-post.html"><img src="assets/images/blog-widget-03.jpg" alt=""></a>
 							</div>
 							
 							<div class="widget-text">
@@ -193,7 +206,7 @@
 					<li>
 						<div class="widget-content">
 							<div class="widget-thumb">
-								<a href="pages-blog-post.html"><img src="images/blog-widget-02.jpg" alt=""></a>
+								<a href="pages-blog-post.html"><img src="assets/images/blog-widget-02.jpg" alt=""></a>
 							</div>
 							
 							<div class="widget-text">
@@ -208,7 +221,7 @@
 					<li>
 						<div class="widget-content">
 							<div class="widget-thumb">
-								<a href="pages-blog-post.html"><img src="images/blog-widget-01.jpg" alt=""></a>
+								<a href="pages-blog-post.html"><img src="assets/images/blog-widget-01.jpg" alt=""></a>
 							</div>
 							
 							<div class="widget-text">

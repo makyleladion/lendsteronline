@@ -1,7 +1,7 @@
 
 <!-- REVOLUTION SLIDER SCRIPT -->
-<script type="text/javascript" src="scripts/themepunch.tools.min.js"></script>
-<script type="text/javascript" src="scripts/themepunch.revolution.min.js"></script>
+<script type="text/javascript" src="assets/scripts/themepunch.tools.min.js"></script>
+<script type="text/javascript" src="assets/scripts/themepunch.revolution.min.js"></script>
 
 <script type="text/javascript">
 	var tpj=jQuery;			
@@ -112,12 +112,12 @@
 <!-- SLIDER REVOLUTION 5.0 EXTENSIONS  
 	(Load Extensions only on Local File Systems ! 
 	The following part can be removed on Server for On Demand Loading) -->	
-<script type="text/javascript" src="scripts/extensions/revolution.extension.actions.min.js"></script>
-<script type="text/javascript" src="scripts/extensions/revolution.extension.carousel.min.js"></script>
-<script type="text/javascript" src="scripts/extensions/revolution.extension.kenburn.min.js"></script>
-<script type="text/javascript" src="scripts/extensions/revolution.extension.layeranimation.min.js"></script>
-<script type="text/javascript" src="scripts/extensions/revolution.extension.migration.min.js"></script>
-<script type="text/javascript" src="scripts/extensions/revolution.extension.navigation.min.js"></script>
-<script type="text/javascript" src="scripts/extensions/revolution.extension.parallax.min.js"></script>
-<script type="text/javascript" src="scripts/extensions/revolution.extension.slideanims.min.js"></script>
-<script type="text/javascript" src="scripts/extensions/revolution.extension.video.min.js"></script>
+<script type="text/javascript" src="assets/scripts/extensions/revolution.extension.actions.min.js"></script>
+<script type="text/javascript" src="assets/scripts/extensions/revolution.extension.carousel.min.js"></script>
+<script type="text/javascript" src="assets/scripts/extensions/revolution.extension.kenburn.min.js"></script>
+<script type="text/javascript" src="assets/scripts/extensions/revolution.extension.layeranimation.min.js"></script>
+<script type="text/javascript" src="assets/scripts/extensions/revolution.extension.migration.min.js"></script>
+<script type="text/javascript" src="assets/scripts/extensions/revolution.extension.navigation.min.js"></script>
+<script type="text/javascript" src="assets/scripts/extensions/revolution.extension.parallax.min.js"></script>
+<script type="text/javascript" src="assets/scripts/extensions/revolution.extension.slideanims.min.js"></script>
+<script type="text/javascript" src="assets/scripts/extensions/revolution.extension.video.min.js"></script>

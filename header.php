@@ -10,7 +10,7 @@
 
 <!-- CSS
 ================================================== -->
-<link rel="stylesheet" href="assets/css/app.css">
+
 <link rel="stylesheet" href="assets/css/style.css">
 <link rel="stylesheet" href="assets/css/colors/main.css" id="colors">
 <link rel="stylesheet" href="assets/css/custom.css">
