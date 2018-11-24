@@ -33,7 +33,7 @@
 			<li data-index="rs-1" data-transition="fade" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="1000"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="800" data-fsslotamount="7" data-saveperformance="off">
 
 				<!-- Background -->
-				<img src="images/slider-bg-01.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0">
+				<img src="assets/images/slider-bg-01.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0">
 
 				<!-- Caption-->
 				<div class="tp-caption custom-caption-2 tp-shape tp-shapewrapper tp-resizeme rs-parallaxlevel-0" 
@@ -84,7 +84,7 @@
 			<li data-index="rs-2" data-transition="fade" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="1000"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="800" data-fsslotamount="7" data-saveperformance="off">
 
 				<!-- Background -->
-				<img src="images/slider-bg-02.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="112" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0"> 
+				<img src="assets/images/slider-bg-02.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="112" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0"> 
 
 				<!-- Caption-->
 				<div class="tp-caption centered custom-caption-2 tp-shape tp-shapewrapper tp-resizeme rs-parallaxlevel-0" 
@@ -152,7 +152,7 @@
 		<div class="col-md-4">
 
 			<!-- Image Box -->
-			<a href="listings-list-with-sidebar.html" class="img-box" data-background-image="images/popular-location-01.jpg">
+			<a href="listings-list-with-sidebar.php" class="img-box" data-background-image="assets/images/popular-location-01.jpg">
 				<div class="img-box-content visible">
 					<h4>New York </h4>
 					<span>14 Listings</span>
@@ -164,7 +164,7 @@
 		<div class="col-md-8">
 
 			<!-- Image Box -->
-			<a href="listings-list-with-sidebar.html" class="img-box" data-background-image="images/popular-location-02.jpg">
+			<a href="listings-list-with-sidebar.php" class="img-box" data-background-image="assets/images/popular-location-02.jpg">
 				<div class="img-box-content visible">
 					<h4>Los Angeles</h4>
 					<span>24 Listings</span>
@@ -176,7 +176,7 @@
 		<div class="col-md-8">
 
 			<!-- Image Box -->
-			<a href="listings-list-with-sidebar.html" class="img-box" data-background-image="images/popular-location-03.jpg">
+			<a href="listings-list-with-sidebar.php" class="img-box" data-background-image="assets/images/popular-location-03.jpg">
 				<div class="img-box-content visible">
 					<h4>San Francisco </h4>
 					<span>12 Listings</span>
@@ -188,7 +188,7 @@
 		<div class="col-md-4">
 
 			<!-- Image Box -->
-			<a href="listings-list-with-sidebar.html" class="img-box" data-background-image="images/popular-location-04.jpg">
+			<a href="listings-list-with-sidebar.php" class="img-box" data-background-image="assets/images/popular-location-04.jpg">
 				<div class="img-box-content visible">
 					<h4>Miami</h4>
 					<span>9 Listings</span>
@@ -221,9 +221,9 @@
 
 					<!-- Listing Item -->
 					<div class="carousel-item">
-						<a href="listings-single-page.html" class="listing-item-container compact">
+						<a href="listings-single-page.php" class="listing-item-container compact">
 							<div class="listing-item">
-								<img src="images/listing-item-01.jpg" alt="">
+								<img src="assets/images/listing-item-01.jpg" alt="">
 
 								<div class="listing-badge now-open">Now Open</div>
 
@@ -240,9 +240,9 @@
 
 					<!-- Listing Item -->
 					<div class="carousel-item">
-						<a href="listings-single-page.html" class="listing-item-container compact">
+						<a href="listings-single-page.php" class="listing-item-container compact">
 							<div class="listing-item">
-								<img src="images/listing-item-02.jpg" alt="">
+								<img src="assets/images/listing-item-02.jpg" alt="">
 								<div class="listing-item-details">
 									<ul>
 										<li>Friday, August 10</li>
@@ -261,9 +261,9 @@
 
 					<!-- Listing Item -->
 					<div class="carousel-item">
-						<a href="listings-single-page.html" class="listing-item-container compact">
+						<a href="listings-single-page.php" class="listing-item-container compact">
 							<div class="listing-item">
-								<img src="images/listing-item-03.jpg" alt="">
+								<img src="assets/images/listing-item-03.jpg" alt="">
 								<div class="listing-item-details">
 									<ul>
 										<li>Starting from $59 per night</li>
@@ -283,9 +283,9 @@
 
 					<!-- Listing Item -->
 					<div class="carousel-item">
-						<a href="listings-single-page.html" class="listing-item-container compact">
+						<a href="listings-single-page.php" class="listing-item-container compact">
 							<div class="listing-item">
-								<img src="images/listing-item-04.jpg" alt="">
+								<img src="assets/images/listing-item-04.jpg" alt="">
 
 								<div class="listing-badge now-open">Now Open</div>
 
@@ -302,9 +302,9 @@
 
 					<!-- Listing Item -->
 					<div class="carousel-item">
-						<a href="listings-single-page.html" class="listing-item-container compact">
+						<a href="listings-single-page.php" class="listing-item-container compact">
 							<div class="listing-item">
-								<img src="images/listing-item-05.jpg" alt="">
+								<img src="assets/images/listing-item-05.jpg" alt="">
 								<div class="listing-item-content">
 									<div class="numerical-rating" data-rating="3.5"></div>
 									<h3>Airport</h3>
@@ -444,31 +444,31 @@
 				<div class="logo-slick-carousel dot-navigation">
 					
 					<div class="item">
-						<img src="images/logo-01.png" alt="">
+						<img src="assets/images/logo-01.png" alt="">
 					</div>
 					
 					<div class="item">
-						<img src="images/logo-02.png" alt="">
+						<img src="assets/images/logo-02.png" alt="">
 					</div>
 					
 					<div class="item">
-						<img src="images/logo-03.png" alt="">
+						<img src="assets/images/logo-03.png" alt="">
 					</div>
 					
 					<div class="item">
-						<img src="images/logo-04.png" alt="">
+						<img src="assets/images/logo-04.png" alt="">
 					</div>
 					
 					<div class="item">
-						<img src="images/logo-05.png" alt="">
+						<img src="assets/images/logo-05.png" alt="">
 					</div>		
 
 					<div class="item">
-						<img src="images/logo-06.png" alt="">
+						<img src="assets/images/logo-06.png" alt="">
 					</div>	
 
 					<div class="item">
-						<img src="images/logo-07.png" alt="">
+						<img src="assets/images/logo-07.png" alt="">
 					</div>
 
 

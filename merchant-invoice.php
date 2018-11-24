@@ -5,7 +5,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Lendster Online Invoice</title>
-	<link rel="stylesheet" href="css/invoice.css">
+	<link rel="stylesheet" href="assets/css/invoice.css">
 </head> 
 
 <body>
@@ -19,7 +19,7 @@
 	<!-- Header -->
 	<div class="row">
 		<div class="col-md-6">
-			<div id="logo"><img src="assets/images/logo.png" alt=""></div>
+			<div id="logo"><img src="assets/images/lendster-logo.png" alt="" style="max-height: 70px;"></div>
 		</div>
 
 		<div class="col-md-6">	

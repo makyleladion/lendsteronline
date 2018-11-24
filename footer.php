@@ -13,7 +13,7 @@
 			<div class="col-md-4 col-sm-6 ">
 				<h4>Helpful Links</h4>
 				<ul class="footer-links">
-					<li><a href="mechant-dashboard.php">Login</a></li>
+					<li><a href="merchant-dashboard.php">Login</a></li>
 					<li><a href="#">Sign Up</a></li>
 					<li><a href="user-index.php">My Account</a></li>
 					<li><a href="#">Add Listing</a></li>
@@ -85,7 +85,6 @@
 <script type="text/javascript" src="assets/scripts/jquery-ui.min.js"></script>
 <script type="text/javascript" src="assets/scripts/tooltips.min.js"></script>
 <script type="text/javascript" src="assets/scripts/custom.js"></script>
-
 
 <!-- Google Autocomplete -->
 <script>
