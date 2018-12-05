@@ -49,11 +49,26 @@
 			</div>
 
 		</div>
-		
-		<!-- Copyright -->
-		<div class="row">
-			<div class="col-md-12">
-				<div class="copyrights">© 2018 Lendster Online. All Rights Reserved.</div>
+
+		<div class="row get-app-section">
+			<div class="col-md-5">
+				<img class="get-app" src="assets/images/get-app2.png">
+			</div>
+			<div class="col-md-7">
+				<h2 class="get-app-header1">Lendster Online in your mobile</h2>
+				<h3 class="get-app-header2">Get your app, it's the fastest way to borrow money online.</h3>
+				<div class="col-md-4">
+					<a href="#">
+						<img class="get-app-store" src="assets/images/get-app-store.png">
+					</a>
+				</div>
+				<div class="col-md-4">
+					<a href="#">
+						<img class="get-app-store" src="assets/images/get-google-play.png">
+					</a>
+				</div>
+				<div class="copyrights2">© 2018 Lendster Online. All Rights Reserved.</div>
+				
 			</div>
 		</div>
 

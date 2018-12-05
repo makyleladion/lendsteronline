@@ -87,3 +87,38 @@ input.search-field {
 .style-2 .tabs-container {
     background-color: #fff;
 }
+
+.get-app-section {
+    text-align: left;
+}
+
+.get-app-section {
+    color: #707070;
+    border-top: 1px solid rgba(0,0,0,.09);
+    margin-top: 60px;
+    text-align: center;
+    padding: 40px 0;
+    display: inline-block;
+    width: 100%;
+}
+
+.get-app-header1 {
+    text-align: left;
+    padding: 0px 15px;
+}
+
+.get-app-header2 {
+    text-align: left;
+    padding: 0px 15px 5px 15px;
+    color: #f91942;
+}
+
+.copyrights2 {
+    color: #707070;
+    text-align: center;
+    padding: 25px 0;
+    display: inline-block;
+    width: 100%;
+    text-align: left;
+    padding-left: 15px;
+}
