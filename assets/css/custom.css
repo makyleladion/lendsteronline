@@ -93,13 +93,14 @@ input.search-field {
 }
 
 .get-app-section {
-    color: #707070;
-    border-top: 1px solid rgba(0,0,0,.09);
-    margin-top: 60px;
     text-align: center;
     padding: 40px 0;
     display: inline-block;
     width: 100%;
+}
+
+.get-app {
+    margin-left: 100px;
 }
 
 .get-app-header1 {
